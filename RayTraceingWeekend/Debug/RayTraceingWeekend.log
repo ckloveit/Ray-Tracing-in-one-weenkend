@@ -1,0 +1,21 @@
+﻿  HitableList.cpp
+  RayTracingWeekend.cpp
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\Math\Random.h(16,24): warning C4244:  “return”: 从“double”转换到“float”，可能丢失数据
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\Camera.h(11,15): warning C4244:  “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\Material\Dielectric.h(28,21): warning C4244:  “=”: 从“double”转换到“float”，可能丢失数据
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(24,43): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(24,60): warning C4305:  “参数”: 从“double”到“float”截断
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(24,18): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(25,7): warning C4305:  “参数”: 从“double”到“float”截断
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(27,126): warning C4305:  “参数”: 从“double”到“float”截断
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(31,70): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(31,48): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(31,26): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(31,93): warning C4244:  “参数”: 从“double”转换到“float”，可能丢失数据
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(31,105): warning C4305:  “参数”: 从“double”到“float”截断
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(34,62): warning C4305:  “参数”: 从“double”到“float”截断
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(41,79): warning C4305:  “参数”: 从“double”到“float”截断
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(134,13): warning C4244:  “参数”: 从“int”转换到“const float”，可能丢失数据
+  正在生成代码...
+F:\Code\RayTracingWeekend\RayTracingTutorial\RayTraceingWeekend\RayTracingWeekend.cpp(105,11): warning C4101:  “list”: 未引用的局部变量
+  RayTraceingWeekend.vcxproj -> F:\Code\RayTracingWeekend\RayTracingTutorial\Debug\RayTracingWeekend.exe
